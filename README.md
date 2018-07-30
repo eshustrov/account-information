@@ -1,2 +1,2 @@
-# account-information
+# Account Information
 Training project for Java development
