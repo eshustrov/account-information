@@ -1,2 +1,2 @@
 # account-information
-Account Information parent project
+Training project for Java development
